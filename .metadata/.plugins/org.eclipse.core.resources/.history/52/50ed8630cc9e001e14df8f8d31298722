@@ -1,0 +1,5 @@
+package com.devsuperior.bds04.dto.login;
+
+public class UserDTO {
+
+}

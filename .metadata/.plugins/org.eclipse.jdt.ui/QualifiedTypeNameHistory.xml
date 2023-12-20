@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.entities.login.Role"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Required"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.FutureOrPresent"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.repositories.login.UserRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.entities.login.User"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.repositories.CityRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.repositories.EventRepository"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.entities.Event"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.entities.City"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.services.CityService"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.dto.CityDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.services.EventService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PreAuthorize"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="javax.validation.Valid"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.devsuperior.bds04.dto.EventDTO"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.support.ServletUriComponentsBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+</qualifiedTypeNameHistroy>

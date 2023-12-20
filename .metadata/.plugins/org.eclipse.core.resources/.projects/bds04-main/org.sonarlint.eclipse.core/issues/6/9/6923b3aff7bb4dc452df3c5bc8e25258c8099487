@@ -1,0 +1,22 @@
+
+d
+java:S1068",Remove this unused "password" private field.(œãë­úÿÿÿÿ8£–½¤È1HÖRMAJORZ
+CODE_SMELL
+\
+java:S1068")Remove this unused "roles" private field.(ÜÁµý8£–½¤È1HÙRMAJORZ
+CODE_SMELL
+^
+java:S1068"&Remove this unused "id" private field.(þÓî«þÿÿÿÿ8£–½¤È1HÎRMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÁµý8£–½¤È1HÌRMINORZ
+CODE_SMELL
+d
+java:S1068",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ8£–½¤È1HÒRMAJORZ
+CODE_SMELL
+`
+java:S1068"-Remove this unused "firstName" private field.(š„¦¿8×ŸÂ¤È1HïRMAJORZ
+CODE_SMELL
+a
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8×ŸÂ¤È1HóRMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+r
+java:S1612":Replace this lambda with method reference 'EventDTO::new'.(ëÌžÃøÿÿÿÿ8ðê¬¥È1H–RMINORZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'org.springframework.data.domain.Pageable'.(‡ë‚Öýÿÿÿÿ8ùÌÀ¥È1H¬RMINORZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'org.springframework.data.domain.Page'.(˜âŽŽüÿÿÿÿ8ùÌÀ¥È1HªRMINORZ
+CODE_SMELL

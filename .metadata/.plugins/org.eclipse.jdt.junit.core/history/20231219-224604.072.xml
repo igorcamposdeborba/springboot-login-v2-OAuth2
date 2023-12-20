@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="EventControllerIT.insertShouldReturn422WhenAdminLoggedAndBlankName" project="bds04-main" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.devsuperior.bds04.controllers.EventControllerIT" incomplete="true" displayname="EventControllerIT" uniqueid="[engine:junit-jupiter]/[class:com.devsuperior.bds04.controllers.EventControllerIT]">
+    <testcase name="insertShouldReturn422WhenAdminLoggedAndBlankName" classname="com.devsuperior.bds04.controllers.EventControllerIT" incomplete="true" displayname="insertShouldReturn422WhenAdminLoggedAndBlankName()" uniqueid="[engine:junit-jupiter]/[class:com.devsuperior.bds04.controllers.EventControllerIT]/[method:insertShouldReturn422WhenAdminLoggedAndBlankName()]"/>
+  </testsuite>
+</testrun>

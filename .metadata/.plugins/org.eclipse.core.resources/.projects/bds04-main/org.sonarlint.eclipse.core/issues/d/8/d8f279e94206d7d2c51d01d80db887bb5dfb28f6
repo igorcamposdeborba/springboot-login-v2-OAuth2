@@ -1,0 +1,11 @@
+
+r
+java:S1128
+"?Remove this unused import 'com.devsuperior.bds04.dto.EventDTO'.(¤ÛÅì8ã™İ¥È1H¾RMINORZ
+CODE_SMELL
+t
+java:S1128"ARemove this unused import 'com.devsuperior.bds04.entities.Event'.(ÉÚç›8ã™İ¥È1HÀRMINORZ
+CODE_SMELL
+q
+java:S1612"9Replace this lambda with method reference 'CityDTO::new'.(ä»ùÿÿÿÿ8 ‹¢¥È1HşRMINORZ
+CODE_SMELL
